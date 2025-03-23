@@ -1,15 +1,18 @@
-# Car-Type-Classification
-🚗 Car Database SQL Project
+🚗 Car Type Classification SQL Project
 📌 Overview
-This project is a structured SQL-based car database designed to store, manage, and analyze various aspects of automobiles. It includes details on car models, manufacturers, specifications, pricing, and ownership history. The project is built to showcase SQL skills such as database design, queries, joins, aggregations, and optimizations.
+This project is a Car Type Classification System that categorizes cars into different types (e.g., SUV, Convertible, Coupe, Sedan, Hatchback) using a structured SQL database. The dataset is organized to store car details, specifications, and classifications, allowing for efficient querying and analysis.
 
-🛠️ Features
-Car Specifications: Stores details like model, type (SUV, sedan, coupe, etc.), engine specs, horsepower, and fuel type.
+🚀 Features
+Structured Database Design: Organizes cars into distinct types.
 
-Manufacturers Data: Information about different car brands and their country of origin.
+Efficient Data Storage: Stores specifications like engine type, horsepower, fuel efficiency, and seating capacity.
 
-fuel efficiency
+Query-Based Classification: Retrieves car types based on attributes.
 
-cartype
+Search & Filtering: Allows filtering cars by price, brand, horsepower, and fuel type.
 
-average
+Data Analysis: Aggregates insights on the most common car types and trends.
+
+🛠️ Technologies Used
+✔ SQL (MySQL) – For database creation and querying
+✔ Python (Jupyter Notebook) – For data manipulation and analysis
